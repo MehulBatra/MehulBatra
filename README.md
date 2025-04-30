@@ -3,6 +3,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [Flink Unified Storage System](http://github.com/alibaba/fluss/)
-- 🌱 I’m currently learning analytics and storage of big data
+- 🌱 Learning & developing big data systems with elegance and purpose
 - 📫 How to reach me: mehulbatra1997@gmail.com
-- ⚡ Fun fact: I'm an ACG fan
+- ⚡ Fun fact: I'm an Anime fan, Coffee connoisseur ☕ & Always Chasing perfect serves on tennis courts 🎾
